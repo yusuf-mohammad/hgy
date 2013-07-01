@@ -2,7 +2,7 @@
 
 Just an app for me to get the hang of rails and ruby
 
-
+heroku server located at:   http://thawing-river-5102.herokuapp.com/
 
 
 == Welcome to Rails
