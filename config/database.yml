@@ -30,6 +30,3 @@ test:
 production:
     adapter: postgresql
     encoding: utf-8
-    database: hgy_test 
-    pool: 5
-    password: yusuf
